@@ -87,7 +87,3 @@ public class Solution {
 ## Result:
 
 The program was successfully implemented using Dynamic Programming, and the expected output was verified.
-
----
-
-If you want **EX 4D** also prepared, just tell me!
